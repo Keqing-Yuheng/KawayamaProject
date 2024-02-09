@@ -3,7 +3,7 @@ A project for cracking a random distributing program used in class
 
 **GitHub: Keqing-Yuheng/KawayamaProject**
 
-
+![Kawayama Project](https://raw.githubusercontent.com/Keqing-Yuheng/KawayamaProject/main/KawayamaProjectTitle.png)
 Img: AL **Kawa**kaze & AL **Yama**kaze
 
 ## Background
